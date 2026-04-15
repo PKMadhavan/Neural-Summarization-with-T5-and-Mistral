@@ -33,4 +33,4 @@ This project explores abstractive text summarization with encoder‑decoder tran
 
 - Fine‑tuning T5 improves semantic alignment (higher BERTScore and lower perplexity) even when ROUGE gains are modest or mixed. 
 - Domain‑specific fine‑tuning is important when moving from news to essay‑style content; off‑the‑shelf models often underperform or fail.
-- Instruction‑tuned LLMs like Mistral‑7B can produce fluent, controllable summaries via prompting alone, but may omit fine‑grained details compared to supervised T5 models. [file:24]
+- Instruction‑tuned LLMs like Mistral‑7B can produce fluent, controllable summaries via prompting alone, but may omit fine‑grained details compared to supervised T5 models. 
